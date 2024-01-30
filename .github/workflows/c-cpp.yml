@@ -16,4 +16,4 @@ jobs:
     - name: make
       run: make test
     - name: make test
-      run: make ./test
+      run: make ./test.exe
